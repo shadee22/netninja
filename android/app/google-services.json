@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193578028194",
+    "project_id": "shadyapp-d16a7",
+    "storage_bucket": "shadyapp-d16a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193578028194:android:6023daf66fa553bae31bfb",
+        "android_client_info": {
+          "package_name": "com.shadyapp.meowing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193578028194-6oqpfuhhpqatvkaabb4mk4n7fjn506p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ZiZKsrLHPwBOKnZS7t1M6PZxxzAftHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193578028194-6oqpfuhhpqatvkaabb4mk4n7fjn506p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
